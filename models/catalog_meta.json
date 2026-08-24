@@ -1,0 +1,27 @@
+{
+  "classes": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ],
+  "class_to_group": {
+    "T-shirt/top": "Apparel",
+    "Trouser": "Apparel",
+    "Pullover": "Apparel",
+    "Dress": "Apparel",
+    "Coat": "Apparel",
+    "Shirt": "Apparel",
+    "Sandal": "Footwear",
+    "Sneaker": "Footwear",
+    "Ankle boot": "Footwear",
+    "Bag": "Bags_Accessories"
+  },
+  "test_accuracy": 0.762
+}

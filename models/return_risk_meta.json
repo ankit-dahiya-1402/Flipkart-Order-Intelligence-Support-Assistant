@@ -1,0 +1,102 @@
+{
+  "threshold": 0.4348,
+  "bucket_boundaries": {
+    "low_below": 0.4348,
+    "high_at_or_above": 0.6348
+  },
+  "numeric_stats": {
+    "price_inr": {
+      "median": 2428.215,
+      "q25": 1389.965,
+      "q75": 8884.0025
+    },
+    "discount_pct": {
+      "median": 20.5,
+      "q25": 10.9,
+      "q75": 29.9
+    },
+    "customer_tenure_days": {
+      "median": 285.0,
+      "q25": 119.0,
+      "q75": 591.0
+    },
+    "num_previous_orders": {
+      "median": 6.0,
+      "q25": 2.0,
+      "q75": 13.0
+    },
+    "num_previous_returns": {
+      "median": 0.0,
+      "q25": 0.0,
+      "q75": 2.0
+    },
+    "delivery_distance_km": {
+      "median": 224.64999999999998,
+      "q25": 149.5,
+      "q75": 332.42499999999995
+    },
+    "delivery_days": {
+      "median": 4.0,
+      "q25": 3.0,
+      "q75": 6.0
+    },
+    "is_weekend_order": {
+      "median": 1.0,
+      "q25": 0.0,
+      "q75": 1.0
+    },
+    "rating_given": {
+      "median": 3.0,
+      "q25": 2.0,
+      "q75": 4.0
+    }
+  },
+  "top_features_for_explanation": [
+    "payment_method",
+    "num_previous_returns",
+    "product_category",
+    "customer_tenure_days",
+    "num_previous_orders",
+    "delivery_distance_km"
+  ],
+  "metrics": {
+    "dummy_baseline": {
+      "accuracy": 0.742,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "roc_auc": 0.5
+    },
+    "logistic_regression": {
+      "accuracy": 0.6173,
+      "precision": 0.3594,
+      "recall": 0.6176,
+      "f1": 0.4544,
+      "roc_auc": 0.6451
+    },
+    "random_forest_default_threshold": {
+      "accuracy": 0.6487,
+      "precision": 0.3643,
+      "recall": 0.4858,
+      "f1": 0.4164,
+      "roc_auc": 0.642
+    },
+    "random_forest_tuned_threshold": {
+      "accuracy": 0.5853,
+      "precision": 0.3414,
+      "recall": 0.6537,
+      "f1": 0.4486,
+      "roc_auc": 0.642
+    }
+  },
+  "missingness_analysis": {
+    "overall_missing_rate": 0.1093,
+    "missing_rate_by_payment_method": {
+      "COD": 0.1926,
+      "Prepaid_Card": 0.0523,
+      "Prepaid_UPI": 0.0519,
+      "Wallet": 0.064
+    },
+    "classification": "MAR (depends on payment_method)"
+  }
+}

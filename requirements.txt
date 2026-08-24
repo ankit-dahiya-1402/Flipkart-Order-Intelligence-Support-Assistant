@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+torch
+torchvision
+pillow
+sentence-transformers
+streamlit
+anthropic
+python-dotenv

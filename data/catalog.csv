@@ -1,0 +1,41 @@
+product_id,image_path,declared_category,true_class,true_category
+P0000,data\sample_images\product_000_bag.png,Bags_Accessories,Bag,Bags_Accessories
+P0001,data\sample_images\product_001_sandal.png,Footwear,Sandal,Footwear
+P0002,data\sample_images\product_002_dress.png,Apparel,Dress,Apparel
+P0003,data\sample_images\product_003_trouser.png,Bags_Accessories,Trouser,Apparel
+P0004,data\sample_images\product_004_shirt.png,Apparel,Shirt,Apparel
+P0005,data\sample_images\product_005_t-shirt_top.png,Bags_Accessories,T-shirt/top,Apparel
+P0006,data\sample_images\product_006_trouser.png,Apparel,Trouser,Apparel
+P0007,data\sample_images\product_007_dress.png,Apparel,Dress,Apparel
+P0008,data\sample_images\product_008_trouser.png,Apparel,Trouser,Apparel
+P0009,data\sample_images\product_009_trouser.png,Apparel,Trouser,Apparel
+P0010,data\sample_images\product_010_coat.png,Apparel,Coat,Apparel
+P0011,data\sample_images\product_011_sneaker.png,Footwear,Sneaker,Footwear
+P0012,data\sample_images\product_012_pullover.png,Apparel,Pullover,Apparel
+P0013,data\sample_images\product_013_coat.png,Apparel,Coat,Apparel
+P0014,data\sample_images\product_014_ankle_boot.png,Footwear,Ankle boot,Footwear
+P0015,data\sample_images\product_015_sneaker.png,Footwear,Sneaker,Footwear
+P0016,data\sample_images\product_016_bag.png,Bags_Accessories,Bag,Bags_Accessories
+P0017,data\sample_images\product_017_ankle_boot.png,Footwear,Ankle boot,Footwear
+P0018,data\sample_images\product_018_pullover.png,Apparel,Pullover,Apparel
+P0019,data\sample_images\product_019_pullover.png,Footwear,Pullover,Apparel
+P0020,data\sample_images\product_020_shirt.png,Apparel,Shirt,Apparel
+P0021,data\sample_images\product_021_shirt.png,Bags_Accessories,Shirt,Apparel
+P0022,data\sample_images\product_022_sandal.png,Apparel,Sandal,Footwear
+P0023,data\sample_images\product_023_sneaker.png,Footwear,Sneaker,Footwear
+P0024,data\sample_images\product_024_dress.png,Apparel,Dress,Apparel
+P0025,data\sample_images\product_025_sneaker.png,Footwear,Sneaker,Footwear
+P0026,data\sample_images\product_026_ankle_boot.png,Footwear,Ankle boot,Footwear
+P0027,data\sample_images\product_027_shirt.png,Apparel,Shirt,Apparel
+P0028,data\sample_images\product_028_trouser.png,Footwear,Trouser,Apparel
+P0029,data\sample_images\product_029_shirt.png,Bags_Accessories,Shirt,Apparel
+P0030,data\sample_images\product_030_sandal.png,Footwear,Sandal,Footwear
+P0031,data\sample_images\product_031_ankle_boot.png,Apparel,Ankle boot,Footwear
+P0032,data\sample_images\product_032_bag.png,Bags_Accessories,Bag,Bags_Accessories
+P0033,data\sample_images\product_033_sneaker.png,Bags_Accessories,Sneaker,Footwear
+P0034,data\sample_images\product_034_bag.png,Footwear,Bag,Bags_Accessories
+P0035,data\sample_images\product_035_bag.png,Bags_Accessories,Bag,Bags_Accessories
+P0036,data\sample_images\product_036_sandal.png,Footwear,Sandal,Footwear
+P0037,data\sample_images\product_037_t-shirt_top.png,Apparel,T-shirt/top,Apparel
+P0038,data\sample_images\product_038_coat.png,Apparel,Coat,Apparel
+P0039,data\sample_images\product_039_pullover.png,Apparel,Pullover,Apparel
